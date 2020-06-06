@@ -11,7 +11,7 @@ build:
 
 run:
 	$(MAKE) build
-	docker run \
+	docker run -it \
 	-e READER_MODE=$(READER_MODE) \
 	-e JOB_SLEEP_TIME_SECONDS=$(JOB_SLEEP_TIME_SECONDS) \
 	$(IMAGE_NAME)
