@@ -32,6 +32,7 @@ If you wish to contribute, please start by reading the [contribution guidelines]
 **Our webapps and visualizers:**
 * [Web app](https://2020policebrutality.netlify.app/) to visually view incident reports
 * [Interactive map](https://846policebrutality.com/) of incidents with video and social media browsers
+* [Collection of sites](https://pb2020gallery.netlify.app/) built using our APIs
 
 **Some external projects built using our API:**
 * [Searchable collection](https://too-many-incidents.netlify.app/) of incidents and related evidence
