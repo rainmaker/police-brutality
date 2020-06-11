@@ -39,6 +39,22 @@ id: nc-raleigh-2
 
 * https://www.newsobserver.com/news/local/article243114301.html
 
+
+### Police use tear gas to clear road | May 31st
+
+Shortly before 7pm on May 31st, police fired tear gas to disperse peaceful protestors gathered on the street before advancing across the intersection.
+
+Police later justified the use of force by stating that protestors were blocking the path of an EMS vehicle, although no vehicle can be seen in the footage.
+
+id: nc-raleigh-4
+
+**Links**
+
+* https://twitter.com/KateMurphyNews/status/1267227888811741190
+* https://www.cbs17.com/news/local-news/wake-county-news/about-100-march-during-protest-in-downtown-raleigh-sunday-afternoon/
+* https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
+
+
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
 
 A group of police approach a man who identified himself as the owner of the business he was standing outside of. He was not a protestor himself, but had been handing out refreshments to protestors. They fire some kind of shots to intimidate him before shouting "the game is over!".
