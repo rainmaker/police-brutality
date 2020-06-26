@@ -29,12 +29,14 @@ kick
 knee
 knee-on-neck
 lgbtq+
+lrad
 mace
 marking-rounds
 medic
 paintball
 pepper-ball
 pepper-spray
+person-with-disability
 policecar
 politician
 pregnant
@@ -58,6 +60,7 @@ tear-gas-canister
 threaten
 throw
 vehicle
+wooden-bullets
 ```
 
 ## Broken down by type
@@ -72,6 +75,7 @@ homeless
 journalist
 lgbtq+
 medic
+person-with-disability
 politician
 pregnant
 racial-profiling
@@ -89,6 +93,7 @@ headlock
 horse
 kick
 knee-on-neck
+lrad
 mace
 marking-rounds
 paintball
@@ -104,6 +109,7 @@ taser
 tear-gas
 tear-gas-canister
 vehicle
+wooden-bullets
 ```
 
 ### Method

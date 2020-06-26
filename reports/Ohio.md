@@ -11,6 +11,24 @@ id: oh-beavercreek-1
 **Links**
 * [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
+
+## Bethel
+
+### Man struck by counter-protestor while police look on | June 14th
+
+During a BLM protest in Bethel, Ohio, protestors were met by a substantial counter-protest, which allegedly harrassed and assaulted them. In one particular video, a counter-protestor strikes a BLM protestor on the back of the head and walk away. There are police officers directly in front of and behind the incident. The man tells the officer he just got punched. The officer's response is difficult to hear above the crowd, but he appears to offer little help, instead telling the protestor he is not allowed to demonstrate there (on a public sidewalk).
+
+News report includes footage of counter-protestors using racial slurs, harassing protestors and rip signs out of protestor hands while police look on.
+
+tags: abuse-of-power
+
+id: oh-bethel-1
+
+**Links**
+* https://www.youtube.com/watch?v=6GVbOjgBUCc
+* https://www.youtube.com/watch?v=ltabht5GsL0
+
+
 ## Canton
 
 ### Police spray mace, fire tear gas and flashbangs at protestors, even after they have dispersed | May 29th
@@ -67,6 +85,21 @@ id: oh-cincinnati-3
 *  https://twitter.com/nswartsell/status/1267612155840528385
 
 
+### Officer refuses to give diabetic arrestee her insulin back | June 2nd
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+tags: arrest, inhumane-treatment
+
+id: oh-cincinnati-4
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
+
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
@@ -110,6 +143,7 @@ id: oh-cleveland-3
 * https://twitter.com/NEO_Scan/status/1266848874163027970
 * https://www.cleveland.com/court-justice/2020/06/cleveland-police-gave-order-for-george-floyd-protesters-to-disperse-legal-observers-witnesses-said-no-one-heard-it.html
 * https://twitter.com/AntonioAlan216/status/1266877225707745280
+* https://www.cleveland.com/court-justice/2020/06/man-who-lost-eye-to-police-fired-bean-bag-round-during-clevelands-george-floyd-protests-i-did-not-deserve-this.html
 
 
 ## Columbus
@@ -181,6 +215,19 @@ id: oh-columbus-15
 
 *  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
 *  https://twitter.com/julialwashere/status/1266730657436315649
+
+
+### Police pepper spray protestors; rip mask off protestor | May 30th
+
+Police pepper spray protestors walking away from them. One protestor shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
+
+tags: pepper-spray, spray, shove
+
+id: oh-columbus-16
+
+**Links**
+
+* https://twitter.com/bwk1992/status/1266833971570237442
 
 
 ### Police pepper-spray a medic | May 31st
@@ -293,6 +340,20 @@ id: oh-columbus-12
 * https://i.imgur.com/mECPaWe.jpg
 
 
+### Man pepper-sprayed at close range | (Believed to be) May 31st
+
+Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st.
+
+tags: pepper-spray, spray
+
+id: oh-columbus-17
+
+**Links**
+
+* https://twitter.com/snowmanonfire/status/1267122517614964743
+* https://twitter.com/greg_doucette/status/1269118992540749831
+
+
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
 
 Location: Starbucks at the intersection of Lane Avenue and North High Street
@@ -310,19 +371,42 @@ id: oh-columbus-13
 * https://twitter.com/maevewalsh27/status/1267646128289447939
 
 
-### Officer refuses to give diabetic arrestee her insulin back | June 2nd
+### Bronze star veteran recounts injuries from police at protests  | June 5th
 
-Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+In an article from the Columbus Dispatch, a veteran, Ryan McMullen, recounts injuries he sustained at police hands from the beginning of protests up to Friday, June 5th.
 
-tags: arrest, inhumane-treatment
+He states that he was maced, hit by a police officer on a bicycle, struck by ricocheting tear gas canisters, and shot 6 times with wooden pellets.
 
-id: oh-columbus-14
+In the interview, he stated: "This is worse than anything I received in an actual war zone,” citing special forces and contractor work in Afghanistan and East Africa.
+
+tags: mace, pepper-spray, tear-gas, tear-gas-canister, bike, shot, wooden-bullets
+
+id: oh-columbus-18
 
 **Links**
 
-* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
-* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+* https://www.dispatch.com/news/20200607/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus
+* [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
+
+
+### Man maced by police | June 21st
+
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+
+Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+
+Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
+
+tags: mace, pepper-spray, spray, shove, person-with-disability
+
+id: oh-columbus-19
+
+**Links**
+
+* https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
+* [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
+* [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
+
 
 ## Dayton
 

@@ -4,7 +4,7 @@
 
 Law enforcement disrupt teenagers' peaceful protest by throwing a gas grenade and almost starting a fire.
 
-tags: tear-gas
+tags: tear-gas, tear-gas-canister
 
 id: ca-clayton-1
 
@@ -24,7 +24,7 @@ Two police offers have someone pinned to the ground and proceed to kneel on thei
 
 [This Reddit comment asserts these police are members of the LASD.](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/)
 
-tags: kneel-on-neck, kneel, punch, kick, threaten, inhumane-treatment
+tags: beat, conceal, knee-on-neck, knee, punch, kick, threaten, inhumane-treatment
 
 id: ca-compton-1
 
@@ -63,13 +63,43 @@ id: ca-hollywood-1
 * https://twitter.com/AdoreDelano/status/1267688320735166465
 
 
+### Police fire into a crowd of peaceful protesters at short range | June 2nd
+
+Police are shown shoving a wall of peaceful protesters back from an intersection. Shortly after, officers begin to fire rubber bullets at the protesters from close range.
+
+Footage does not indicate that any protesters were violent with any officer before the shooting began.
+
+tags: shove, shoot, rubber-bullets
+
+id: ca-hollywood-2
+
+**Links**
+
+* https://www.youtube.com/watch?v=E_lO_IZVc4k&feature=youtu.be
+
+
+## Huntington Beach
+
+### Police fire at protestors on ground | June 1st
+
+Protestors laid on ground and chanted. Police may have given dispersal order, but it is difficult to hear. Within 10 seconds of audible order, as protestors began standing, police fired projectiles at protestors. Police continued to fire off and on for at least one minute while protestors obeyed order to retreat.
+
+tags: shoot, projectiles
+
+id: ca-hungtingtonbeach-1
+
+**Links**
+
+* https://twitter.com/Ricardo_4715/status/1267334754119999488
+
+
 ## La Mesa
 
 ### Law enforcement shoot and throw tear gas at protesters | May 30th
 
-Law enforcement stand off with protesters, seemingly without provocation they start gassing and shooting at the protesters.
+Law enforcement stand off with protesters. Seemingly without provocation they start gassing and shooting at the protesters.
 
-tags: tear-gas
+tags: tear-gas, projectile, shoot
 
 id: ca-lamesa-2
 
@@ -78,7 +108,7 @@ id: ca-lamesa-2
 * https://twitter.com/mamitbh/status/1267030342243778561
 
 
-### Police shoot woman in the face | May 31st
+### Police shoot woman in the face with rubber bullet | May 31st
 
 La Mesa PD shoot a woman in the face with a rubber bullet.
 
@@ -99,7 +129,7 @@ id: ca-lamesa-1
 
 Photo shows large bruise the reporter got from a rubber bullet
 
-tags: rubber-bullets
+tags: shoot, rubber-bullets, journalist
 
 id: ca-longbeach-1
 
@@ -111,7 +141,7 @@ id: ca-longbeach-1
 
 ## Los Angeles
 
-### LAPD officer beats multiple protesters that are filming them during a protest in Beverley Hills | May 30th
+### LAPD officer beats multiple protesters who are filming them during a protest in Beverley Hills | May 30th
 
 An officer is seen beating an individual in a black jacket who was filming the officers. After being beat by a baton, the individual in the black jacket falls, and the officer continues to beat them. The eye-witness runs over to shield and protect the individual from the officer, and was beaten by the officer from behind while helping the fallen individual escape. At the end of the video, they are hit by a less-than-lethal projectile.
 
@@ -126,9 +156,9 @@ id: ca-losangeles-2
 
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
-Los Angeles law enforcement beat several protesters with batons.
+A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
 
-tags: beat, baton
+tags: beat, baton, shoot, rubber-bullets
 
 id: ca-losangeles-3
 
@@ -163,21 +193,6 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
-
-### Police transport arrested protestors using public transportation | May 30th
-
-LAPD using Metro buses to transport arrested protestors after transit service shutdown. 
-
-tags: inhumane-treatment
-
-id: ca-losangeles-24
-
-**Links**
-
-* https://twitter.com/LAist/status/1267006683596775424
-* https://twitter.com/jimw/status/1267666982544932866
-* https://twitter.com/MattHjourno/status/1267658943486017536
-* https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
 
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
@@ -280,7 +295,7 @@ id: ca-losangeles-12
 * https://old.reddit.com/r/gifs/comments/gu8inv/la_cop_car_rams_protester_on_live_tv_chopper/
 
 
-### Los Angeles law enforcement shot at a man on his own balcony | May 31st
+### Los Angeles law enforcement shoot at a man on his own balcony | May 31st
 
 Los Angeles police shoot at a man standing on his own balcony as he's filming, seemingly without provocation.
 
@@ -334,11 +349,11 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### LAPD drive by shootings at fleeing people announcing "This is an illegal assembly" | June 2nd
+### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
-The police are seen shooting at fleeing protestors and parked vehicles.
+A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way. 
 
-tags: shoot, pepper-ball
+tags: shoot, pepper-ball, vehicle, drive
 
 id: ca-losangeles-1
 
@@ -350,27 +365,14 @@ id: ca-losangeles-1
 * [abc7 report](https://abc7.com/deputies-shoot-pepper-balls-at-skateboarders-in-hollywood---video/6230652/)
 
 
-### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
-
-Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
-
-tags: shoot, projectile, homeless
-
-id: ca-losangeles-18
-
-**Links**
-* https://www.instagram.com/p/CBCiZXOlno4/
-* https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
-* https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
-
 
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
 
-A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting non-lethal round at the man.
+A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting less-than-lethal round at the man.
 
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
-tags: shoot, projectile, homeless
+tags: shoot, projectile, homeless, person-with-disability
 
 id: ca-losangeles-17
 
@@ -403,12 +405,42 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 
 tags: shoot, projectile, tear-gas
 
-id: ca-los-angeles-20
+id: ca-losangeles-20
 
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Police tear gas peaceful protest | June 21st
+
+Footage shows scattered protestors on pedestrian walkway with police firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
+
+A journalist states they were tear-gassed while holding up their press badge in plain view.
+
+tags: tear-gas, journalist
+
+id: ca-losangeles-21
+
+**Links**
+* https://twitter.com/josie_huang/status/1274859389921267713
+* https://twitter.com/josie_huang/status/1274860188898430976
+
+
+### Police fire less-lethal rounds at protestors | June 21st
+
+Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
+
+In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-22
+
+**Links**
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
+* https://twitter.com/josie_huang/status/1274863117004988416
 
 
 ## Oakland
@@ -424,6 +456,7 @@ id: ca-oakland-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gttdkj/cop_driving_into_crowds_of_protestors/
+* https://tuckbot.tv/#/watch/gttdkj
 
 
 ### Oakland law enforcement shoot a reporter | May 31st
@@ -437,6 +470,20 @@ id: ca-oakland-2
 **Links**
 
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
+
+
+### Water bottle tossed at police; police retaliate against crowd | June 2nd
+
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+
+tags: tear-gas
+
+id: ca-oakland-3
+
+**Links**
+
+* https://twitter.com/byjacobward/status/1267695808784199680
+* https://twitter.com/greg_doucette/status/1270490060287344642
 
 
 ## Riverside
@@ -509,6 +556,7 @@ id: ca-sandiego-2
 **Links**
 
 * [Youtube link](https://www.youtube.com/watch?v=6uNySPSwhAI&feature=youtu.be)
+* [Youtube mirror](https://www.youtube.com/watch?v=dHji5Xrcbo8&feature=youtu.be)
 * [/r/2020PoliceBrutality thread where date of protest is confirmed by poster](https://www.reddit.com/r/2020PoliceBrutality/comments/gynpd8/police_block_off_sidewalks_and_start_shooting_at/)
 
 
@@ -524,6 +572,19 @@ id: ca-sandiego-3
 
 * https://twitter.com/chadloder/status/1267290221562871809
 * https://twitter.com/MarajYikes/status/1267030131563827200
+
+
+### Police fire on dancing protestors | May 31st
+
+Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
+
+tags: tear-gas, shoot, projectiles
+
+id: ca-sandiego-4
+
+**Links**
+
+* https://twitter.com/mariahalize3/status/1267225330093191168
 
 
 ### Police abduct woman in unmarked van | June 4th
@@ -630,6 +691,37 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
+### Police strike man with motorcylce | May 31st
+
+A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+
+Officers allege he was seen attempting to break into a bank after curfew.
+
+tags: vehicle, arrest
+
+id: ca-sanjose-6
+
+**Links**
+
+* https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
+
+
+### Police shoot small group of unarmed protestors | June 3rd
+
+Police give orders to disperse and subsequently to lay on the ground. Protestors attempt to flee and first-person footage states a protestor was tripped and shot at short range.
+
+Additional footage shows numerous officers corralling protestors into a small area before firing
+
+tags: shoot
+
+id: ca-sanjose-7
+
+**Links**
+
+* https://twitter.com/ex_Tesla/status/1268341102211297280
+* https://twitter.com/greg_doucette/status/1269985578474524673
+
+
 ## San Luis Obispo
 
 ### Law enforcement fire on crowd with their arms up chanting | June 1st
@@ -697,13 +789,26 @@ id: ca-vallejo-1
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
 
-In this video, an armored law enforcement vehicle tells protestors over megaphone "if you do not move, you will be dead."
+In this video, an armored law enforcement vehicle tells protestors blocking a highway to disperse over megaphone. It sounds like the operator is saying "if you do not move, you will be dead," but video later released by the police department seems to show that the operator instead said "if you do not move, you will be gassed." The protesters do not move; the officers deploy tear gas.
 
-tags: threaten
+tags: threaten, tear-gas, vehicle
 
 id: ca-walnutcreek-1
 
 **Links**
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
+* https://jalopnik.com/cop-in-armored-truck-tells-peaceful-protesters-if-you-1843886752
 
+
+### Police fire tear gas at peaceful protestors | June 2nd
+
+A small number of peaceful protestors are scattered in the street. Someone shouts, "Get back," and protestors begin running. Shots can be heard and tear gas is fired into the crowd.
+
+tags: tear-gas
+
+id: ca-walnutcreek-2
+
+**Links**
+
+* https://www.tiktok.com/@ieuanofficial/video/6833597510926241029
